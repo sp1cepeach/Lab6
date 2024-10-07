@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexk\\Documents\\ToolsAndPlugins\\Week7_dotNET\\Lab6_Zork\\Zork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F379481F-7026-43FB-9D37-CA150FC7134C}|Zork.csproj|c:\\users\\alexk\\documents\\toolsandplugins\\week7_dotnet\\lab6_zork\\zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F379481F-7026-43FB-9D37-CA150FC7134C}|Zork.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F379481F-7026-43FB-9D37-CA150FC7134C}|Zork.csproj|c:\\users\\alexk\\documents\\toolsandplugins\\week7_dotnet\\lab6_zork\\zork\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F379481F-7026-43FB-9D37-CA150FC7134C}|Zork.csproj|solutionrelative:commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F379481F-7026-43FB-9D37-CA150FC7134C}|Zork.csproj|c:\\users\\alexk\\documents\\toolsandplugins\\week7_dotnet\\lab6_zork\\zork\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F379481F-7026-43FB-9D37-CA150FC7134C}|Zork.csproj|solutionrelative:assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F379481F-7026-43FB-9D37-CA150FC7134C}|Zork.csproj|c:\\users\\alexk\\documents\\toolsandplugins\\week7_dotnet\\lab6_zork\\zork\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F379481F-7026-43FB-9D37-CA150FC7134C}|Zork.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\alexk\\Documents\\ToolsAndPlugins\\Week7_dotNET\\Lab6_Zork\\Zork\\Room.cs",
+              "RelativeDocumentMoniker": "Room.cs",
+              "ToolTip": "C:\\Users\\alexk\\Documents\\ToolsAndPlugins\\Week7_dotNET\\Lab6_Zork\\Zork\\Room.cs",
+              "RelativeToolTip": "Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:49:29.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assert.cs",
+              "DocumentMoniker": "C:\\Users\\alexk\\Documents\\ToolsAndPlugins\\Week7_dotNET\\Lab6_Zork\\Zork\\Assert.cs",
+              "RelativeDocumentMoniker": "Assert.cs",
+              "ToolTip": "C:\\Users\\alexk\\Documents\\ToolsAndPlugins\\Week7_dotNET\\Lab6_Zork\\Zork\\Assert.cs",
+              "RelativeToolTip": "Assert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:44:59.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\alexk\\Documents\\ToolsAndPlugins\\Week7_dotNET\\Lab6_Zork\\Zork\\Commands.cs",
+              "RelativeDocumentMoniker": "Commands.cs",
+              "ToolTip": "C:\\Users\\alexk\\Documents\\ToolsAndPlugins\\Week7_dotNET\\Lab6_Zork\\Zork\\Commands.cs",
+              "RelativeToolTip": "Commands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:06:19.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexk\\Documents\\ToolsAndPlugins\\Week7_dotNET\\Lab6_Zork\\Zork\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alexk\\Documents\\ToolsAndPlugins\\Week7_dotNET\\Lab6_Zork\\Zork\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:29:09.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
